@@ -1,0 +1,3 @@
+Part 2: Simple Selects and Counts:
+1. All the types a pokemon can have are Normal, Water, Grass, Rock, Fire, Ground, Poison, Bug,
+Electric, Dragon, Steel, Dark, Fighting, Psychic, Ghost, Fairy, Ice, and Flying.
