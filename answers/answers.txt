@@ -1,3 +1,11 @@
 Part 2: Simple Selects and Counts:
 1. All the types a pokemon can have are Normal, Water, Grass, Rock, Fire, Ground, Poison, Bug,
 Electric, Dragon, Steel, Dark, Fighting, Psychic, Ghost, Fairy, Ice, and Flying.
+
+2. The name of the pokemon with id 45 is Eevee.
+
+3. There are 656 Pokemon.
+
+4. There are 19 Types
+
+5. 316 pokemon have a secondary type.
