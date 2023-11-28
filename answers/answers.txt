@@ -9,3 +9,14 @@ Electric, Dragon, Steel, Dark, Fighting, Psychic, Ghost, Fairy, Ice, and Flying.
 4. There are 19 Types
 
 5. 316 pokemon have a secondary type.
+
+Part 3: Joins and Groups:
+1. That's a lot of typing to do, I'll just show the query I used:
+SELECT *
+FROM pokemons
+LEFT JOIN types
+ON pokemons.primary_type=types.ID;
+
+2. Rufflet's secondary type is Flying.
+
+3. The name of the Pokemon that belongs to the trainer with the trainerID of 303 is Bronzong.
