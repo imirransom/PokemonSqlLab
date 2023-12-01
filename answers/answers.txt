@@ -27,4 +27,8 @@ LEFT JOIN pokemon_trainer
 ON pokemon_trainer.pokemon_id=pokemons.id
 WHERE pokemon_trainer.trainerID = 303;
 
-4. 31 pokemon have the secondary type Poison
+4. 31 pokemon have the secondary type Poison.
+
+5. All the primary types are Normal, Water, Grass, Rock, Fire, Ground, Poison, Bug,
+Electric, Dragon, Steel, Dark, Fighting, Psychic, Ghost, Fairy, Ice, and Flying. And, all
+the pokemon with the poison as their primary type are 21.
