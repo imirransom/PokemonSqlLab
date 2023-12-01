@@ -19,4 +19,12 @@ ON pokemons.primary_type=types.ID;
 
 2. Rufflet's secondary type is Flying.
 
-3. The name of the Pokemon that belongs to the trainer with the trainerID of 303 is Bronzong.
+3. The name of the pokemons that belongs
+to the trainer with the trainerID of 303 are Wailord and Vileplume.
+SELECT name
+FROM  pokemons
+LEFT JOIN pokemon_trainer
+ON pokemon_trainer.pokemon_id=pokemons.id
+WHERE pokemon_trainer.trainerID = 303;
+
+4. 31 pokemon have the secondary type Poison
