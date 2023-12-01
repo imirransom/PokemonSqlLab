@@ -10,6 +10,7 @@ Electric, Dragon, Steel, Dark, Fighting, Psychic, Ghost, Fairy, Ice, and Flying.
 
 5. 316 pokemon have a secondary type.
 
+
 Part 3: Joins and Groups:
 1. That's a lot of typing to do, I'll just show the query I used:
 SELECT *
