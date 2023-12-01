@@ -32,4 +32,8 @@ LEFT JOIN types
 ON pokemons.primary_type=types.ID
 WHERE types.id = 1;
 
-
+--6
+SELECT COUNT(pokemon_id) as pokemonNumber, trainerID
+FROM pokemon_trainer
+GROUP BY trainerID
+HAVING pokemonNumber < 2;
