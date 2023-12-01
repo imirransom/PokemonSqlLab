@@ -32,3 +32,5 @@ WHERE pokemon_trainer.trainerID = 303;
 5. All the primary types are Normal, Water, Grass, Rock, Fire, Ground, Poison, Bug,
 Electric, Dragon, Steel, Dark, Fighting, Psychic, Ghost, Fairy, Ice, and Flying. And, all
 the pokemon with the poison as their primary type are 21.
+
+6. There are 963
