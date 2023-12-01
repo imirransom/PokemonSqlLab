@@ -30,7 +30,26 @@ WHERE pokemon_trainer.trainerID = 303;
 4. 31 pokemon have the secondary type Poison.
 
 5. All the primary types are Normal, Water, Grass, Rock, Fire, Ground, Poison, Bug,
-Electric, Dragon, Steel, Dark, Fighting, Psychic, Ghost, Fairy, Ice, and Flying. And, all
-the pokemon with the poison as their primary type are 21.
+Electric, Dragon, Steel, Dark, Fighting, Psychic, Ghost, Fairy, Ice, and Flying.
+
+Normal: 90
+Water = 95
+Grass = 59
+Rock = 38
+Fire = 38
+Ground = 29
+Poison = 27
+Bug = 61
+Electric = 35
+Dragon = 22
+Steel 19
+Dark = 24
+Fighting = 25
+Psychic = 38
+Ghost = 19
+Fairy = 14
+Ice = 22
+Flying = 1
+
 
 6. There are 963
