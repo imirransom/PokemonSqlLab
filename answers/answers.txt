@@ -54,3 +54,8 @@ Flying = 1
 
 
 6. There are 963
+
+Part 4: Final Report
+
+I sorted the data by who had highest attack power and who had the weakest attack power.
+Whichever pokemon attacks the hardest is the strongest
